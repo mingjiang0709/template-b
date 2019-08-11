@@ -1,2 +1,2 @@
 # template-b
-bikestop 测试模板B
+bikestop 测试模板b
